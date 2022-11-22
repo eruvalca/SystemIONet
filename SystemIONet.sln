@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIONet", "SystemIONet\SystemIONet.csproj", "{81630977-B5D4-4A61-92A5-6D1003412DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIONet.Tests", "SystemIONet.Tests\SystemIONet.Tests.csproj", "{738C2083-1082-4FA0-821F-D9AA6A87A965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81630977-B5D4-4A61-92A5-6D1003412DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81630977-B5D4-4A61-92A5-6D1003412DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81630977-B5D4-4A61-92A5-6D1003412DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81630977-B5D4-4A61-92A5-6D1003412DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738C2083-1082-4FA0-821F-D9AA6A87A965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738C2083-1082-4FA0-821F-D9AA6A87A965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738C2083-1082-4FA0-821F-D9AA6A87A965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738C2083-1082-4FA0-821F-D9AA6A87A965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68739338-D7B6-41F8-9600-CBA590360A90}
+	EndGlobalSection
+EndGlobal
